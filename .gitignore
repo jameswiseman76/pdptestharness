@@ -1,0 +1,4 @@
+logs/http.log
+logs/server.log
+logs_old/http.log
+logs_old/server.log
